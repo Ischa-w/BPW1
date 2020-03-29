@@ -13,7 +13,7 @@ public class SpawningBlock : MonoBehaviour
     void Update()
     {
         timer = timer + timeVar * Time.deltaTime;
-        Debug.Log(timer);
+        //Debug.Log(timer);
         if (timer > 1000)
         {
             Instantiate(spawnee, spawnPos.position, spawnPos.rotation);

@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 70f7471872a14e849b0030df39e3c70d
+  - enabled: 1
+    path: Assets/Scenes/RedTree.unity
+    guid: 65583040b6221fc4e9816f59347e736f
+  - enabled: 1
+    path: Assets/Scenes/VictoryBoogieWoogie.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: c40542c9bf9e22949aaf5b7fdc1ef804
   m_configObjects: {}
